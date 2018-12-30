@@ -1,4 +1,12 @@
 # Traffic-Sign-Detection-using-YOLOv3
+## Download instructions
+1. Go the the following link https://drive.google.com/file/d/1m9Hm0p_YrCrsWm7vZmZTbqVI1d9zu26_/view?usp=sharing and download the file.
+2. Extract the file to any directory.
+3. It will look like this.
+
+
+
+
 ## TEST VIDEOS
 
 1. Place the test videos in the Videos folder of Darknet_TrafficSign_Yolov3/build/darknet/x64
