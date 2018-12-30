@@ -5,6 +5,7 @@
 3. It will look like this.
 
 
+4. Follow the instruction given below and for seeing the test video you will find the folder YOLOv3_DemoVideos.
 
 
 ## TEST VIDEOS
