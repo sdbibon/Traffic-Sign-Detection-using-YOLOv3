@@ -6,7 +6,7 @@
 3. It will look like this.
 ![capture1](https://user-images.githubusercontent.com/16569879/50551012-c3400c80-0c37-11e9-84b1-f29b66249202.JPG)
 
-4. Follow the instruction given below and for seeing the test video you will find the folder YOLOv3_DemoVideos.
+4. Follow the instruction given below and for seeing the **test video** you will find the folder YOLOv3_DemoVideos.
 
 
 ## TEST VIDEOS
